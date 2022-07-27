@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_nome"> Robotic Arm</string>
+
+    <string name="action_configuracoes"> Setting</string>
+    <string name="title_activity_andruino"> Arduino</string>
+
+    <string name="nao_pareado"> No paired device!</string>
+    <string name="selecione_dispositivo"> Select your device!</string>
+
+</resources>
